@@ -1,4 +1,4 @@
- # Twój online'owy kurs Pythona 
+# Twój online'owy kurs Pythona 
  
  1. Sforkuj https://github.com/maciejjaskowski/python-for-youths
  1. Otwórz mybinder.org
