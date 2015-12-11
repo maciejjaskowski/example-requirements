@@ -1,15 +1,10 @@
-# Example Binder with requirements.txt
+ # Twój online'owy kurs Pythona 
+ 
+ 1. Sforkuj https://github.com/maciejjaskowski/python-for-youths
+ 1. Otwórz mybinder.org
+ 1. Skopiuj adres url sforkowanego repozytorium (np. https://github.com/maciejjaskowski/python-for-youths) i wklej w punkcie 1.
+ 1. Wybierz requirements.txt w punkcie 2.
+ 1. Kliknij "Make". Po zakończeniu (Completed) wybierz po prawej ".md" i kliknij "launch binder".
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/binder-project/example-requirements)
+ Tutorial jest napisany po angielsku, więc przy trudniejszych zwrotach posiłkuj się translate.google.com :-) Powodzenia!
 
-A Binder-compatible repo with a `requirements.txt` file.
-
-The `requirements.txt` file should list all Python libraries that your notebooks depend on, and they will be installed using 
-
-```
-pip install -r requirements.txt
-```
-
-Note that many scientific Python libraries (e.g. `numpy`, `scipy`, `sklearn`, etc.) are included already because the [`base`](https://github.com/binder-project/binder/blob/master/images/base/Dockerfile) image for Binder is built on Anaconda.
-
-In this example we include the library `seaborn`, and our notebook uses Seaborn to plot a figure.
