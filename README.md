@@ -6,5 +6,5 @@
  1. Wybierz requirements.txt w punkcie 2.
  1. Kliknij "Make". Po zakończeniu (Completed) wybierz po prawej ".md" i kliknij "launch binder".
 
- Tutorial jest napisany po angielsku, więc przy trudniejszych zwrotach posiłkuj się translate.google.com :-) Powodzenia!
+ Tutorial jest napisany po angielsku, więc przy trudniejszych zwrotach posiłkuj się http://translate.google.com :-) Powodzenia!
 
